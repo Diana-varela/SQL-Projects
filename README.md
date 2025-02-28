@@ -6,7 +6,3 @@ The dataset for Student Mendatl Health project is `students.csv`, containing stu
 
 ## SQL Queries
 The queries used for analysis can be found in `queries.sql`.
-
-## Preview
-Below is a preview of the dataset:
-![Dataset Preview](image.png)
