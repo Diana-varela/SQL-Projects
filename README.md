@@ -7,4 +7,4 @@ This repository contains SQL queries and datasets I have worked on.
 
 **Dataset:** students.csv – Includes student demographics and academic details.
 
-**Code & Analysis:** Check the "Analyzing Mental Health in Students (PostgreSQL)" file for SQL queries and insights.
+**Code & Analysis:** Check the "Analyzing_students_mental_health.ipynb" file for SQL queries and insights.
